@@ -13,3 +13,26 @@ https://www.tinkercad.com/things/eDxRmXMppHt?sharecode=4rv5k1o0o79Qtn2dHBCZnmKIV
 https://www.tinkercad.com/things/kP4rVtYEFbr?sharecode=50MT8Q7BhU0ga1ItBuLS1FMOxAoF7FCgX8_AAXEkpj4
 
 https://www.tinkercad.com/things/lLwWkgJpej6?sharecode=n68j6xXsEUCyN0ruDZeY85RFb5gxYAmVXJJYx-bFLKo
+
+IR blaster : https://www.tinkercad.com/things/djayvVfIcqK-led-on-of-using-power-button-ir-blaster
+DC motor turn on : https://www.tinkercad.com/things/ehOPtZHaDrR-dc-motor-turn-on-/editel
+GAS sensor : https://www.tinkercad.com/things/529mdYYNjFU-gas-sensor/editel
+LCD Screen : https://www.tinkercad.com/things/4ivtHRLZe3B-lcd-screen/editel
+TMP sensor : https://www.tinkercad.com/things/kqr6bpCOJQJ-temperature-sensor/editel
+IR remote : https://www.tinkercad.com/things/iw4bviATqYo-ir-remote/editel
+to turn on led w.r.t distance meter : https://www.tinkercad.com/things/aPrF3W9mwAz-to-turn-on-led-wrt-distance-meter/editel
+US distance sensor : https://www.tinkercad.com/things/0EyUOUlrsYg-us-distance-sensor/editel
+pir - sensor with dc motor : https://www.tinkercad.com/things/3vkqCe6lZIl-pir-sensor-with-dc-motor/editel
+pir sensor - motion - https://www.tinkercad.com/things/2YgtOGmFAe4-pir-sensor-motion/editel
+DC Motor swap direction using slide switch : https://www.tinkercad.com/things/cHwrSueEH8X-dc-motor-swap-direction-using-slide-switch/editel
+DC motor with slide : https://www.tinkercad.com/things/ihpwTOQnbw0-dc-motor-with-slide/editel
+LED using slide switch : https://www.tinkercad.com/things/3pfn5f3aQAx-led-using-slide-switch/editel
+slide switch : https://www.tinkercad.com/things/g1YLyIzNz67-slide-switch/editel
+Change direction of DC Motor using User input : https://www.tinkercad.com/things/9wdC5O6FATL-change-direction-of-dc-motor-using-user-input/editel
+H-Bridge Motor Drive - https://www.tinkercad.com/things/l8OKirTFrNe-h-bridge-motor-drive/editel
+led and piezo : https://www.tinkercad.com/things/atPTVpvwnTS-/editel
+potentiometer : https://www.tinkercad.com/things/en7xcj105Gk-potentiometer/editel
+Door bell : https://www.tinkercad.com/things/iKdbc5nauDH-door-bell/editel
+Traffic Signal : https://www.tinkercad.com/things/4m3VtbBoeKU-traffic-signal/editel
+Circuit with Photoresistor : https://www.tinkercad.com/things/ljqoJOwXZfG-circuit-with-photoresistor/editel
+led on off using : https://www.tinkercad.com/things/ljqoJOwXZfG-circuit-with-photoresistor/editel
