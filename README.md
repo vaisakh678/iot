@@ -26,3 +26,4 @@ Temperature Sensor:
 
 With DC motor - https://www.tinkercad.com/things/fkmaBfpmTf5-temperature-sensor-dc-motor/editel?sharecode=MinM_vW7y3Z7RpmrLAZElnV_ii4Um_k9S6824jo43gI
 ```
+
