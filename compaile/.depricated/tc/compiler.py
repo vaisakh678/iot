@@ -12,15 +12,3 @@ compiled = template.replace('{"replace-code-here-mf"}', str(circuits)).replace("
 open("compiled.txt", "w").write(compiled)
     
 
-
-
-
-
-
-
-
-
-
-
-
-
